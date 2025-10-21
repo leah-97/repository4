@@ -2,15 +2,18 @@
   margin: 0px;
   padding: 0px;
 }
-p {
-  color: red;
-}
-h2 {
-  font-size: 2rem;
-}
+
 div {
   width: 100px;
   height: 100px;
   border-radius: 50%;
   background-color: orange;
+}
+h2 {
+  font-size: 3rem;
+  color: red;
+  font-weight: bold;
+}
+p {
+  color: pink;
 }
